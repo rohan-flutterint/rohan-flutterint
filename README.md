@@ -43,16 +43,16 @@
 
 
 ### Profile Visits
-![Visitor Count](https://profile-counter.glitch.me/{rohankumardubey}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{rohan-flutterint}/count.svg)
 
 ### Badges
-| <a href="https://github.com/rohankumardubey/rohankumardubey"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankumardubey&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Rohan's Github Stats" /></a> | <a href="https://github.com/rohankumardubey/rohankumardubey"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankumardubey&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Rohan's Github Stats" /></a> | <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 ### Current Streak
-| <a href="https://github.com/rohankumardubey/rohankumardubey"><img align="center" src="https://streak-stats.demolab.com/?user=rohankumardubey" alt="Rohan's Github Stats" /></a> |
+| <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://streak-stats.demolab.com/?user=rohan-flutterint" alt="Rohan's Github Stats" /></a> |
 | ------------- |
 
 ### Rohan Activity Graph
-[![Rohans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohankumardubey&theme=github-compact&bg_color=000000&color=00FF00&line=ff0000&point=FFFF00&area=true&hide_border=true)](https://github.com/rohankumardubey/github-readme-activity-graph)
+[![Rohans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohan-flutterint&theme=github-compact&bg_color=000000&color=00FF00&line=ff0000&point=FFFF00&area=true&hide_border=true)](https://github.com/rohan-flutterint/github-readme-activity-graph)
 
