@@ -69,7 +69,7 @@ I'm a software development engineer. Interested in Solving problems faced while 
 ## Stats
 <div align="center">
   <div style="display: flex; justify-content: flex-start; width: 900px; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&theme=buefy&hide_border=true&langs_count=8&card_width=420" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8&card_width=420" width="420"/>
     <img src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&count_private=true&theme=buefy&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" width="420"/>
   </div>
 </div>
