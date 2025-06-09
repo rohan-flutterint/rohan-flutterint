@@ -45,7 +45,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{rohan-flutterint}/count.svg)
 
 ### Badges
-| <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Rohan's Github Stats" /></a> | <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&count_private=true&show_icons=true&include_all_commits=true&show=discussions_answered,prs_merged,prs_merged_percentage" alt="Rohan's Github Stats" /></a> | <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 ### Current Streak
