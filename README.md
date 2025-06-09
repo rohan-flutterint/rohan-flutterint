@@ -36,7 +36,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"></code>
 
 ## Social Media Handles
-[![Github](https://img.shields.io/github/followers/rohankumar997?label=Follow&style=social)](https://github.com/rohankumar997)
+[![Github](https://img.shields.io/github/followers/rohan-flutterint?label=Follow&style=social)](https://github.com/rohan-flutterint)
 [![Linkedin](https://img.shields.io/badge/-Rohan%20Kumar%20Dubey-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/rohan-kumar-dubey-3a9a31156/)
 [![Mail](https://img.shields.io/badge/-rohankumardubey497@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:rohankumardubey497@gmail.com)
 
