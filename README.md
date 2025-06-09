@@ -1,6 +1,6 @@
 Hey There👋 My name is Rohan
 =============================
-I'm a software development engineer. Interested in Solving problems faced while integrating Large-scale distributed systems using Async Concurrent programming & Designing low latency Systems and currently working on distributed systems and Real-time data streaming and processing. Have good hands-on with Java, Python, Scala, C++, Go & PHP. I love Linux Kernel-based OSs Ubuntu, Mintos, Kali Linux, Parrot OS, and CentOS. I'm an open-source enthusiast and contributor.
+I'm a software development engineer. Interested in Solving problems faced while integrating Large-scale distributed systems using Async Concurrent programming & Designing low latency Systems and currently working on distributed systems and Real-time data streaming and processing. Have good hands-on with Java, Python, Scala, C++, Go & Rust. I'm an open-source enthusiast and contributor.
 
 ### Here is what I am working on 👋
 - 🌍 I'm based out of India
