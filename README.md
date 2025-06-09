@@ -71,8 +71,6 @@ I'm a software development engineer. Interested in Solving problems faced while 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=donut" />
   <br/>
 </p>
-
-## Language
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&count_private=true&theme=buefy&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" />
   <br/>
