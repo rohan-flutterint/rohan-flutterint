@@ -51,7 +51,6 @@ I'm a software development engineer. Interested in Solving problems faced while 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-flutterint" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&count_private=true&theme=buefy&show_icons=true&include_all_commits=true&show=discussions_answered,prs_merged,prs_merged_percentage" />
 </p>
 
 ## Current Streak
