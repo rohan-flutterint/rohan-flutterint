@@ -53,7 +53,7 @@ I'm a software development engineer. Interested in Solving problems faced while 
 </p>
 
 ### Stats
-| <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&show_icons=true&theme=buefy&hide_border=true&count_private=true&show=discussions_answered,prs_merged,prs_merged_percentage" alt="Rohan's Github Stats" /></a> | <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&count_private=true&theme=buefy&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage" alt="Rohan's Github Stats" /></a> | <a href="https://github.com/rohan-flutterint/rohan-flutterint"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 ## Current Streak
