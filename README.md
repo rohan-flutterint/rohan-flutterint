@@ -63,7 +63,7 @@ I'm a software development engineer. Interested in Solving problems faced while 
 
 ## Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&count_private=true&theme=buefy&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=donut" />
   <br/>
 </p>
 
