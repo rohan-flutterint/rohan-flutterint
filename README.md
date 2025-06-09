@@ -57,7 +57,7 @@ I'm a software development engineer. Interested in Solving problems faced while 
 | ------------- | ------------- |
 
 ### Stats
-| ![Stats](https://github-readme-stats.vercel.app/api?username=rohan-flutterint&count_private=true&theme=buefy&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&theme=buefy&hide_border=true&langs_count=6&langs_count=8&card_width=420) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=rohan-flutterint&count_private=true&theme=buefy&show_icons=true&include_all_commits=true&show=prs_merged,prs_merged_percentage) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&theme=buefy&langs_count=6&hide_border=true&langs_count=8&card_width=420) |
 | :---: | :---: |
 
 
