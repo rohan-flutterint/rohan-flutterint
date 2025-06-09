@@ -46,7 +46,7 @@ I'm a software development engineer. Interested in Solving problems faced while 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu/gnu-ar21.svg"></code>
 
 
-**About me**
+## About me
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohan-flutterint" />
   <br/>
@@ -54,7 +54,7 @@ I'm a software development engineer. Interested in Solving problems faced while 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohan-flutterint&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rohan's github stats" />
 </p>
 
-**Current Streak**
+## Current Streak
 <p>
 <img align="center" src="https://streak-stats.demolab.com/?user=rohan-flutterint" alt="Rohan's Github Stats" /></a>
 </p>
