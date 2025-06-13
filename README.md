@@ -58,7 +58,7 @@ I am a Software Development Engineer with a strong interest in solving complex c
 
 ## Current Streak
 <p>
-<img align="center" src="https://streak-stats.demolab.com/?user=rohan-flutterint" alt="Rohan's Github Stats" /></a>
+<img align="center" src="https://streak-stats.demolab.com/?user=rohan-flutterint" alt="Rohan Github Stats" /></a>
 </p>
 
 ## Social Media Handles
