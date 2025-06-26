@@ -55,6 +55,8 @@ I am a Software Development Engineer with a strong interest in solving complex c
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-flutterint&layout=compact&theme=buefy&hide_border=true&langs_count=8" width="350"/> 
 </p>
 
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=m1arohan-flutterint&theme=dark&hide_border=false)<br/>
 
 ## Current Streak
 <p>
